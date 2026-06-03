@@ -13,7 +13,7 @@ avanzados del paradigma funcional sobre estructuras de datos puras.
 TECNOLOGÍAS UTILIZADAS
 ----------------------
 * Lenguaje: Haskell
-* Herramienta de construcción: Stack / Cabal
+* Herramienta de construcción: Stack
 * Compilador: GHC (Glasgow Haskell Compiler)
 
 CONCEPTOS CLAVE DEL PARADIGMA IMPLEMENTADOS
