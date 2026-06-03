@@ -1,4 +1,5 @@
 [![build](https://github.com/pdep-mn-utn/tp-funcional-pdepedilo/actions/workflows/build.yml/badge.svg)](https://github.com/pdep-mn-utn/tp-funcional-pdepedilo/actions/workflows/build.yml)
+[![Haskell CI (Stack)](https://github.com/leanioqui/Paradigma-Funcional/actions/workflows/haskell.yml/badge.svg)](https://github.com/leanioqui/Paradigma-Funcional/actions/workflows/haskell.yml)
 ========================================================================
 PROYECTO: PARADIGMAS DE PROGRAMACIÓN - PARADIGMA FUNCIONAL (HASKELL)
 ========================================================================
