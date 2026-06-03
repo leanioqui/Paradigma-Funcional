@@ -37,14 +37,6 @@ CONCEPTOS CLAVE DEL PARADIGMA IMPLEMENTADOS
    Uso intensivo de abstracciones nativas como `map`, `filter`, y abstracciones 
    propias parametrizadas con comportamientos dinámicos.
 
-ESTRUCTURA GENERAL DEL CÓDIGO
------------------------------
-* Puntos 1.x: Abstracciones comunes y filtros dinámicos (`aplicarEventosQue`).
-* Puntos 2.x: Lógica de análisis de precios estrictamente crecientes 
-              (`preciosAscendentes`) empleando recursividad acumulativa pro, 
-              controlando los casos borde mediante pattern matching explícito.
-* Puntos 3.x: Generación de flujos de simulación infinitos y modelado de temporadas.
-
 CÓMO EJECUTAR EL PROYECTO LOCALMENTE
 ------------------------------------
 1. Asegurate de tener instalado `stack` en tu entorno de desarrollo.
